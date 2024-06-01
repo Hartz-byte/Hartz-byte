@@ -1,6 +1,6 @@
 # Hi 👋🏼, I'm Harsh!!
 
-# React developer on a mission to make the web a better place.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7A92A&random=false&width=800&lines=React+developer+on+a+mission+to+make+the+web+a+better+place!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-gupta-b349611ba/) 
 
