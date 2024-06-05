@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshmail281199@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Rt9p7C5rJv_m7VeVENezVv3qvice3HNx/view?usp=sharing](https://drive.google.com/file/d/1Rt9p7C5rJv_m7VeVENezVv3qvice3HNx/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1SIVCFDtVFywnz1Nr5PxNQfC6p_eqxsox/view?usp=sharing
 
 - ⚡ Fun fact **I think I am funny.**
 
