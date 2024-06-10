@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hartz-byte&label=Profile%20views&color=0e75b6&style=flat" alt="hartz-byte" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, MySQL, MongoDB, and Redis.**
+- 🌱 I’m currently learning **The backend - NodeJS, MySQL, MongoDB, and Redis.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-2-eosin-iota.vercel.app/](https://portfolio-2-eosin-iota.vercel.app/)
 
