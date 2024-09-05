@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh!!</h1>
-<h3 align="center">A passionate frontend React Developer on a mission to make the web a better place!!</h3>
+<h3 align="center">A MERN Stack Developer, on a mission to make the web and native a better place!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hartz-byte&label=Profile%20views&color=0e75b6&style=flat" alt="hartz-byte" /> </p>
 
-- 🌱 I’m currently learning **The backend - NodeJS, MySQL, MongoDB, and Redis.**
+- 🌱 I’m currently learning **MORE...**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-2-eosin-iota.vercel.app/](https://portfolio-2-eosin-iota.vercel.app/)
+- 👨‍💻 My portfolio link [https://portfolio-2-eosin-iota.vercel.app/](https://portfolio-2-eosin-iota.vercel.app/)
 
 - 📫 How to reach me **harshmail281199@gmail.com**
 
