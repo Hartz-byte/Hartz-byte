@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **harshmail281199@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1SIVCFDtVFywnz1Nr5PxNQfC6p_eqxsox/view?usp=sharing
-
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
