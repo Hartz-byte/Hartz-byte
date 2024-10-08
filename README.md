@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hartz-byte&label=Profile%20views&color=0e75b6&style=flat" alt="hartz-byte" /> </p>
 
-- 🌱 I’m currently learning **AWS Developer Associate**
+- 🌱 I’m currently learning **MORE**
 
 - 👨‍💻 My portfolio link [https://portfolio-2-eosin-iota.vercel.app/](https://portfolio-2-eosin-iota.vercel.app/)
 
