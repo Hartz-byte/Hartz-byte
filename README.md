@@ -40,3 +40,5 @@
 > I use humor as an error handler in real life.  
 (Still debugging life one step at a time 😄)
 
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hartz-byte&" alt="Hartz-byte" /></p>
+
