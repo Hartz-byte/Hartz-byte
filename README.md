@@ -32,6 +32,7 @@
 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-gupta-b349611ba/)
+- 📊 [Kaggle](https://www.kaggle.com/hartzbyte)
 - 📧 harshmail281199@gmail.com
 
 ---
