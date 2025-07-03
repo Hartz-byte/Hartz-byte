@@ -1,36 +1,43 @@
 # Hi 👋, I'm Harsh Gupta!
 
-🎯 A Full Stack Developer transitioning into the world of **AI/ML**, blending web, native, and intelligent systems to build smarter, scalable solutions.
+🚀 A Machine Learning & Deep Learning Enthusiast building **intelligent systems** that learn, adapt, and create real-world impact.  
+Previously a Full Stack Developer — now specializing in **AI/ML**, from foundational math to transformers.
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 👨‍💻 Full Stack Developer (React.js | React Native | Node.js | MongoDB)
-- 🤖 Currently diving deep into **Machine Learning & Deep Learning** 
-- 🧠 Building projects that merge AI/ML with real-world applications
-- ✨ Passionate about technology, solid architecture, and lifelong learning
-
----
-
-## 🛠️ Technologies & Tools
-
-**Frontend:** React.js · React Native · JavaScript · TypeScript · TailwindCSS  
-**Backend:** Node.js · Express.js · MongoDB · REST APIs  
-**AI/ML:** Python · NumPy · Pandas · Matplotlib · TensorFlow · Scikit-Learn  
-**Cloud:** AWS (learning) · Vercel · Firebase  
-**Version Control:** Git · GitHub  
-**Others:** Zustand · Redux · Postman · Figma
+- 🤖 Completed **Machine Learning Specialization** & **Deep Learning Specialization** by Andrew Ng (DeepLearning.AI))
+- 🧬 Trained & deployed models across domains: Computer Vision, NLP, Time Series, and Transformers
+- 📊 Strong grip on **ML fundamentals**, model evaluation, and advanced DL architectures
+- 🛠️ Now diving into **big AI projects**, focusing on real-world applications and performance
 
 ---
 
-## 🌱 Currently Learning
-- 🤖 Machine Learning Specialization
-- 🧠 Deep Learning Specialization
+## 🛠️ Skills & Tools
+
+**Languages & Libraries:** Python · NumPy · Pandas · Scikit-Learn · TensorFlow · Keras 
+
+**Visualization & Analysis:** Matplotlib · Seaborn · Plotly 
+
+**Domains Covered:** Supervised/Unsupervised Learning · Neural Networks · CNNs · RNNs · LSTMs · Transformers · NLP  
+**Other Tools:** Jupyter Notebook · Git · GitHub · VSCode · Colab · Kaggle  
+
+**Also Experienced In:**  
+Full Stack (React.js · Next.js · Node.js · MongoDB · MySQL · REST APIs) | DevOps basics (Vercel · Firebase · AWS)
 
 ---
 
-## 📫 Let’s Connect
+## 🚧 Currently Working On
+
+- 🏗️ Large-scale ML projects integrating Computer Vision and NLP  
+- 💡 Implementing Transformer architectures from scratch  
+- 🧪 Model fine-tuning and optimization  
+
+---
+
+## 📈 Let's Connect
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-gupta-b349611ba/)
 - 📊 [Kaggle](https://www.kaggle.com/hartzbyte)
 - 📧 harshmail281199@gmail.com
@@ -38,8 +45,7 @@
 ---
 
 ## ⚡ Fun Fact
-> I use humor as an error handler in real life.  
-(Still debugging life one step at a time 😄)
+> Most people debug code. I debug neurons — both biological and artificial 😄
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hartz-byte&" alt="Hartz-byte" /></p>
 
