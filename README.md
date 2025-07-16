@@ -21,7 +21,7 @@ Previously a Full Stack Developer — now specializing in **AI/ML**, from founda
 **Visualization & Analysis:** Matplotlib · Seaborn · Plotly 
 
 **Domains Covered:** Supervised/Unsupervised Learning · Neural Networks · CNNs · RNNs · LSTMs · Transformers · NLP  
-**Other Tools:** Jupyter Notebook · Git · GitHub · VSCode · Colab · Kaggle  
+**Other Tools:** Jupyter Notebook · Git · GitHub · VSCode · Kaggle  
 
 **Also Experienced In:**  
 Full Stack (React.js · Next.js · Node.js · MongoDB · MySQL · REST APIs) | DevOps basics (Vercel · Firebase · AWS)
