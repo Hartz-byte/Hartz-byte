@@ -1,38 +1,30 @@
 # Hi 👋, I'm Harsh Gupta!
-
-🚀 A Machine Learning & Deep Learning Enthusiast building **intelligent systems** that learn, adapt, and create real-world impact.  
-Previously a Full Stack Developer — now specializing in **AI/ML**, from foundational math to transformers.
+🚀 AI/ML Engineer passionate about building end-to-end intelligent systems that learn, reason, and deliver real-world value. Former Full Stack Developer now specializing in deep learning, LLMs, and multimodal AI solutions.
 
 ---
 
 ## 🧠 About Me
 
-- 🤖 Completed **Machine Learning Specialization** & **Deep Learning Specialization** by Andrew Ng (DeepLearning.AI))
-- 🧬 Trained & deployed models across domains: Computer Vision, NLP, Time Series, and Transformers
-- 📊 Strong grip on **ML fundamentals**, model evaluation, and advanced DL architectures
-- 🛠️ Now diving into **big AI projects**, focusing on real-world applications and performance
+- 🧑💻 AI/ML Engineer with hands-on expertise in Computer Vision, NLP, and LLM applications: from model design to robust MLOps.
+- 📚 Completed the Machine Learning Specialization and Deep Learning Specialization by Andrew Ng (DeepLearning.AI).
+- ⚡ Led projects deploying transformer-based models, real-time vision systems, and AI-powered chat platforms.
+- 🏆 Proven record in developing scalable pipelines, optimizing model performance, and shipping innovative AI products.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Languages & Libraries:** Python · NumPy · Pandas · Scikit-Learn · TensorFlow · Keras 
+**Core Languages & Frameworks:** Python · TensorFlow · PyTorch · Scikit-learn · NumPy · Pandas
 
-**Visualization & Analysis:** Matplotlib · Seaborn · Plotly 
+**AI/ML Domains:** Supervised/Unsupervised Learning · CNNs · RNNs · LSTMs · Transformers · LLMs · NLP · Computer Vision 
 
-**Domains Covered:** Supervised/Unsupervised Learning · Neural Networks · CNNs · RNNs · LSTMs · Transformers · NLP  
-**Other Tools:** Jupyter Notebook · Git · GitHub · VSCode · Kaggle  
+**MLOps & Engineering:** FastAPI · Docker · AWS · Microservices · Git · REST APIs · Postgres · MongoDB
 
-**Also Experienced In:**  
-Full Stack (React.js · Next.js · Node.js · MongoDB · MySQL · REST APIs) | DevOps basics (Vercel · Firebase · AWS)
+**Visualization & Analysis:** Matplotlib · Seaborn · Plotly · Jupyter Notebook
 
----
+**Frontend/Full Stack:** React.js · Node.js · TypeScript · Express.js
 
-## 🚧 Currently Working On
-
-- 🏗️ Large-scale ML projects integrating Computer Vision and NLP  
-- 💡 Implementing Transformer architectures from scratch  
-- 🧪 Model fine-tuning and optimization  
+**Workflow:** Experimentation · Hyperparameter Tuning · Model Evaluation · Automated Retraining
 
 ---
 
@@ -45,7 +37,7 @@ Full Stack (React.js · Next.js · Node.js · MongoDB · MySQL · REST APIs) | D
 ---
 
 ## ⚡ Fun Fact
-> Most people debug code. I debug neurons — both biological and artificial 😄
+> I love debugging AI models almost as much as building them—because every bug is a new learning curve! 😄
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hartz-byte&" alt="Hartz-byte" /></p>
 
