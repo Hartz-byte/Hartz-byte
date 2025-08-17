@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-- 🧑💻 AI/ML Engineer with hands-on expertise in Computer Vision, NLP, and LLM applications: from model design to robust MLOps.
+- 💻 AI/ML Engineer with hands-on expertise in Computer Vision, NLP, and LLM applications: from model design to robust MLOps.
 - 📚 Completed the Machine Learning Specialization and Deep Learning Specialization by Andrew Ng (DeepLearning.AI).
 - ⚡ Led projects deploying transformer-based models, real-time vision systems, and AI-powered chat platforms.
 - 🏆 Proven record in developing scalable pipelines, optimizing model performance, and shipping innovative AI products.
